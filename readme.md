@@ -1,4 +1,4 @@
-# ep-m365Messaging-report
+# ep-azFunc-m365Messaging-report
 
 Azure Function to get messages from Azure Service Bus Queue and insert them as rows into an Azure Storage Table to be used for reporting via Power BI.
 
